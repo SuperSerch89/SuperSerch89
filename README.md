@@ -1,8 +1,8 @@
 ### Hello there 👋 I'm Sergio from Mexico
 
-- 🔭 I’m currently working on porting a ps4 video-game to Android and iOS.
-- 🌱 I’m currently learning Unreal Engine
-- 👯 I’m looking to collaborate on console video-game development.
+- 🔭 I’m currently looking for work!
+- 🌱 I’m currently learning Photon Fusion
+- 👯 I’m looking to collaborate on console and mobile video-game development.
 - 🤔 I’m looking for help with DOTS multiplayer system.
 - 💬 Ask me about Unity 3D and videogames.
 - 📫 How to reach me: snp.rogrammer@gmail.com , Demo reel: https://youtu.be/dwnqr2oULC0
